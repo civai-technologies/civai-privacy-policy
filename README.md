@@ -36,6 +36,19 @@ Our products may contain links to other sites that are not operated by us. If yo
 
 We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
+
+To add a no refund policy to the products you mentioned while ensuring that CIVAI is not held liable, you can include a new section in your privacy policy. Here’s a suggested revision to integrate that:
+
+### No Refund Policy
+
+For the following products offered by CIVAI Technologies Ltd: Medisix, BrowserGPT, Nova, and Omnibot, please note the following terms regarding refunds:
+
+- No Refunds: Once a purchase or subscription has been completed, we do not offer refunds for any of these products under any circumstances. By making a purchase, you acknowledge and agree to this policy.
+  
+- Liability: CIVAI Technologies Ltd will not be held liable for any dissatisfaction or issues regarding the use of these products. We strongly recommend reviewing all product details, terms, and conditions before making a purchase.
+
+
+
 ### Changes to This Privacy Policy
 
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
