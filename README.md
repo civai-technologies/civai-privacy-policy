@@ -1,8 +1,9 @@
 # Privacy Policy for CIVAI Technologies Ltd
 
-## Last updated: 14th of April, 2023
+## Last updated: 30th of April, 2025
 
-CIVAI Technologies Ltd ("us", "we", or "our") operates a range of products, including the Portfolio App, a cryptocurrency trading application available on the Apple App Store and Google Play Store. This Privacy Policy informs you of our policies regarding the collection, use, and disclosure of personal information we receive from users of our products, including the Portfolio App.
+[CIVAI Technologies Ltd](https://civai.co) (“CIVAI,” “we,” “our,” or “us”) operates a suite of digital products and services, including the Portfolio App (a cryptocurrency trading application), BrowserGPT (a voice-powered AI browser assistant), Nova (an AI productivity platform), and IdeaTree (a tool for capturing and evolving ideas). These products are available across various platforms, including the Apple App Store, Google Play Store, and desktop web environments.
+
 
 By using any of our products, you agree to the collection and use of information in accordance with this policy. We will not use or share your information with anyone except as described in this Privacy Policy.
 
@@ -57,7 +58,7 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 If you have any questions about this Privacy Policy, please contact us:
 
-CIVAI Technologies Ltd
+[CIVAI Technologies Ltd](https://civai.co)
 
 +2348054597232
 hello@civai.co
