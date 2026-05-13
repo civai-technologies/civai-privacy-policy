@@ -16,7 +16,7 @@ We collect the following categories of user data through our Products. Not every
 Name, email address, phone number, and other contact details you provide when creating an account, contacting support, or completing a purchase.
 
 ### 1.2 Authentication and license information
-License keys, session tokens, device identifiers used to validate your subscription, and account credentials (passwords are never stored in plaintext).
+License keys, session tokens, and device identifiers used to validate your subscription. Sign-in is handled via email one-time passcodes (OTPs) and third-party OAuth providers (such as Sign in with Google). **We do not collect or store passwords for our Products** — when you sign in with an OAuth provider, authentication is performed by that provider, and we receive only a verified identity token (e.g., your email address and a unique account identifier).
 
 ### 1.3 User-provided content
 Text prompts, voice and audio recordings, uploaded files and images, notes, ideas, and other content you submit to our Products in order to receive a response, generate output, or use AI-powered features.
@@ -176,12 +176,16 @@ Our Products may contain links to sites or services that are not operated by us.
 
 ---
 
-## 12. No Refund Policy
+## 12. Refund Policy
 
-For the following Products offered by CIVAI Technologies Ltd — **Medisix, BrowserGPT, Nova, and Omnibot** — please note the following terms regarding refunds:
+For Products offered by CIVAI Technologies Ltd — including **Medisix, BrowserGPT, Nova, and Omnibot** — refunds are available under the following conditions:
 
-- **No Refunds:** Once a purchase or subscription has been completed, we do not offer refunds for any of these Products under any circumstances. By making a purchase, you acknowledge and agree to this policy.
-- **Liability:** CIVAI Technologies Ltd will not be held liable for any dissatisfaction or issues regarding the use of these Products. We strongly recommend reviewing all product details, terms, and conditions before making a purchase.
+- **3-day eligibility window:** Refund requests must be submitted within **3 days** of the original purchase or subscription start date. Requests made after this window will not be accepted.
+- **Limited usage requirement:** Refunds will not be granted where there is any sign of **extensive usage** of the paid features. This includes, but is not limited to, accounts that have consumed a meaningful share of included credits, automations, AI interactions, or other paid quotas during the eligibility window.
+- **No abuse of the refund window:** Refunds will not be granted where, in our reasonable judgment, the request is an attempt to **use the Product without paying for a subscription** (for example, repeatedly purchasing and refunding, or using the full benefit of a subscription and then requesting a refund).
+- **App store purchases:** Purchases made through the Apple App Store or Google Play are subject to the refund policies of those platforms in addition to the conditions above. You may need to request the refund directly through Apple or Google.
+- **How to request a refund:** Email **hello@civai.co** from the address associated with your account, including your order/transaction ID and reason for the request. We aim to respond within a reasonable period.
+- **Liability:** Outside of the refund eligibility above, all sales are final, and CIVAI Technologies Ltd will not be held liable for general dissatisfaction with the Products. We strongly recommend reviewing all product details, terms, and conditions before making a purchase.
 
 ---
 
