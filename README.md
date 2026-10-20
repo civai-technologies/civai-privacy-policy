@@ -1,6 +1,6 @@
 # Privacy Policy for CIVAI Technologies Ltd
 
-## Last updated: 13th of May, 2026
+## Last updated: 20th of October, 2026
 
 [CIVAI Technologies Ltd](https://civai.co) ("CIVAI," "we," "our," or "us") operates a suite of digital products and services, including the Portfolio App (a cryptocurrency trading application), BrowserGPT (a voice-powered AI browser assistant), Nova (an AI productivity platform), IdeaTree (a tool for capturing and evolving ideas), and Chrome browser extensions published by CIVAI Technologies Ltd on the Chrome Web Store. These products are available across various platforms, including the Apple App Store, Google Play Store, the Chrome Web Store, and desktop web environments (collectively, the "Products").
 
@@ -16,7 +16,7 @@ We collect the following categories of user data through our Products. Not every
 Name, email address, phone number, and other contact details you provide when creating an account, contacting support, or completing a purchase.
 
 ### 1.2 Authentication and license information
-License keys, session tokens, and device identifiers used to validate your subscription. Sign-in is handled via email one-time passcodes (OTPs) and third-party OAuth providers (such as Sign in with Google). **We do not collect or store passwords for our Products** — when you sign in with an OAuth provider, authentication is performed by that provider, and we receive only a verified identity token (e.g., your email address and a unique account identifier).
+License keys, session tokens, and device identifiers used to validate your subscription. Sign-in is handled via email one-time passcodes (OTPs) and third-party OAuth providers (such as Sign in with Google). **We do not collect or store passwords for our Products.** When you sign in with an OAuth provider, authentication is performed by that provider, and we receive only a verified identity token (e.g., your email address and a unique account identifier).
 
 ### 1.3 User-provided content
 Text prompts, voice and audio recordings, uploaded files and images, notes, ideas, and other content you submit to our Products in order to receive a response, generate output, or use AI-powered features.
@@ -38,6 +38,15 @@ When you subscribe to a paid plan, our payment processors (see Section 4) handle
 
 ### 1.7 Cookies and local storage
 Cookies, local storage entries, and similar identifiers used to keep you signed in, remember your preferences, and improve our Products. You can configure your browser to refuse cookies, but some features may not work without them.
+
+### 1.8 Third-party platform data (Nova AI agent plugins)
+Nova includes a library of AI agent plugins (sometimes called connectors or MCP tools) that let an authenticated member of our team direct an AI agent to operate a third-party platform or business system on our behalf (for example, a developer console, a courier or logistics provider, a payments processor, or a social/advertising platform), using credentials that team member supplies or has authorized (a session cookie, API key, or OAuth token for that platform). These plugins are used by CIVAI staff to run our own operations, not by end users of our consumer Products, and only when that staff member explicitly invokes them. Depending on which plugin is used, this may involve processing:
+- **Platform account/team data:** identifiers (such as email/username), roles, and membership status of our own team members or collaborators on that platform, limited to what a given action requires (for example, confirming someone can be added to a test group).
+- **Operational contact details:** names, emails, and phone numbers entered for a specific request to the platform (for example, a reviewer or tester contact, or a delivery/order contact), and any one-time credentials (such as a demo sign-in) required to complete that specific request. These are sent to the platform to fulfill the action and are not retained by Nova beyond what is needed to complete it.
+- **Business/content metadata:** identifiers, listings, media, and configuration belonging to the account we operate (for example, app bundle IDs, product listings, screenshots, or shipment details).
+- **Platform credentials:** session tokens and API keys used to authenticate these requests on our behalf. Where a platform issues a one-time secret (such as a private key), it is shown once for the team member to store themselves; we do not retain a copy.
+
+This data is sent directly to the relevant third-party platform's own API to perform the action requested, and, because an AI agent is used to interpret the team member's instructions, to the AI model providers listed in Section 4.1. It is not shared with any other third party, used for advertising, or linked to the accounts of end users of our consumer Products.
 
 ---
 
@@ -106,7 +115,7 @@ We do **not** share, sell, rent, or trade user data with data brokers, advertise
 
 ---
 
-## 5. Chrome Web Store — Limited Use Disclosure
+## 5. Chrome Web Store: Limited Use Disclosure
 
 Our Chrome extensions' use and transfer of information received from Google APIs and from Chrome Web Store users adheres to the [Chrome Web Store User Data Policy](https://developer.chrome.com/docs/webstore/user-data-faq), including the **Limited Use** requirements. Specifically:
 
@@ -178,7 +187,7 @@ Our Products may contain links to sites or services that are not operated by us.
 
 ## 12. Refund Policy
 
-For Products offered by CIVAI Technologies Ltd — including **Medisix, BrowserGPT, Nova, and Omnibot** — refunds are available under the following conditions:
+For Products offered by CIVAI Technologies Ltd, including **Medisix, BrowserGPT, Nova, and Omnibot**, refunds are available under the following conditions:
 
 - **3-day eligibility window:** Refund requests must be submitted within **3 days** of the original purchase or subscription start date. Requests made after this window will not be accepted.
 - **Limited usage requirement:** Refunds will not be granted where there is any sign of **extensive usage** of the paid features. This includes, but is not limited to, accounts that have consumed a meaningful share of included credits, automations, AI interactions, or other paid quotas during the eligibility window.
